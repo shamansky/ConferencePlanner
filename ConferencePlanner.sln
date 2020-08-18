@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackEnd", "BackEnd\BackEnd.csproj", "{966AC431-5009-4AFE-8CCA-A59DFB534944}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConferenceDTO", "ConferenceDTO\ConferenceDTO.csproj", "{BB27D507-643E-4030-B4AD-F326AE978251}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{966AC431-5009-4AFE-8CCA-A59DFB534944}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{966AC431-5009-4AFE-8CCA-A59DFB534944}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{966AC431-5009-4AFE-8CCA-A59DFB534944}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{966AC431-5009-4AFE-8CCA-A59DFB534944}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB27D507-643E-4030-B4AD-F326AE978251}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB27D507-643E-4030-B4AD-F326AE978251}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB27D507-643E-4030-B4AD-F326AE978251}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB27D507-643E-4030-B4AD-F326AE978251}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
