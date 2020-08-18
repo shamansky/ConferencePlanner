@@ -1,5 +1,5 @@
 # ConferencePlanner
 
-.NET CORE WEB APP code along exercise.
-Thank you Csharpfritz
+.NET CORE WEB APP code along exercise - big thanks to CSharpFritz
+
 
