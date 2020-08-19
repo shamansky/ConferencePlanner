@@ -22,6 +22,12 @@ namespace FrontEnd.Pages
 
         public async Task OnGetAsync(string term)
         {
+            if (string.IsNullOrEmpty(term))
+            {
+                SearchResults = new List<SearchResult>();
+                return;
+            } 
+           
             Term = term;
             SearchResults = await _apiClient.SearchAsync(term);
         }
